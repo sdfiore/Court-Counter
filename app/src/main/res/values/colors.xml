@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFEFCE97</color>
+    <color name="colorPrimaryDark">#FFEFCE97</color>
+    <color name="colorNBABlue">#0069B9</color>
+    <color name="colorNBARed">#F00B47</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorAccent">#F00B47</color>
+</resources>
